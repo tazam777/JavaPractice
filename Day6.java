@@ -81,7 +81,7 @@ if (flag) {
 
 
 
-
+sc.close();
     }
     
 }
