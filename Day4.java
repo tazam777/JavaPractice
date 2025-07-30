@@ -83,6 +83,7 @@ public class Day4 {
             System.out.println(name); 
 
         }
+        sc.close();
 
 
     }
